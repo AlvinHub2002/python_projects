@@ -1,5 +1,5 @@
 import threading
-import time_counter
+import time
 import tkinter
 
 
